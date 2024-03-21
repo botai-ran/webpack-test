@@ -1,5 +1,4 @@
 import React from "react";
-
 function Login() {
     return <div>
         <input type="text" id="username" />

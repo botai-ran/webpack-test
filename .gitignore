@@ -29,3 +29,4 @@ yarn-error.log*
 .history
 /yarn.lock
 /.vscode/settings.json
+/package-lock.json
